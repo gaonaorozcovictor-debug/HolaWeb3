@@ -8,8 +8,12 @@
 <body>
     <h1>¡Hola Mundo desde JSP!</h1>
     <p>Este es mi archivo JSP creado para la práctica</p>
+    <p>Neymar es el unico jugador que puede hacer a brasil gaanr un mundial</p>
+
+
     
     <h2>VERSIÓN 1.0</h2>
     <p>Fecha: <%= new java.util.Date() %></p>
 </body>
+
 </html>
